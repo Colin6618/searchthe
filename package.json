@@ -1,0 +1,22 @@
+{
+  "name": "searchthe",
+  "version": "1.0.1",
+  "description": "Recursive Find desired string in files from one command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "searchthe": "index.js"
+  },
+  "keywords": [
+    "find",
+    "files",
+    "search",
+    "in",
+    "folder",
+    "string"
+  ],
+  "author": "Colin6618",
+  "license": "ISC"
+}
