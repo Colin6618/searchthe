@@ -1,0 +1,10 @@
+node_modules
+.idea
+dist
+npm-debug.log
+assets
+*/node_modules
+zip/*
+unzip/*
+logs/*
+.DS_Store
