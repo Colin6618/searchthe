@@ -1,6 +1,6 @@
 {
   "name": "searchthe",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Recursive Find desired string in files with one command",
   "main": "index.js",
   "scripts": {
