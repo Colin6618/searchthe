@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "Colin6618/searchthe",
   "bin": {
     "searchthe": "index.js"
   },
@@ -18,5 +19,5 @@
     "string"
   ],
   "author": "Colin6618",
-  "license": "ISC"
+  "license": "MIT"
 }
