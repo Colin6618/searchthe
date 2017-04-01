@@ -12,7 +12,7 @@ npm install -g searchthe
 ## searchthe
 
 ```
-// search "hello" string in js files under current path
+// search "hello" string in js files under current path, u can specify css or md ... any extension name.
 searchthe hello from js 
 
 // search "world" string in all files under current path
