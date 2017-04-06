@@ -1,4 +1,4 @@
-# Searchthe
+# Search the
 
 > Small utility to searches target files recursively to find the desired string.
 
@@ -11,7 +11,7 @@ npm install -g searchthe
 
 ## searchthe
 
-`npm <string> from <ext>`
+`searchthe <string> from <ext>`
 
 ```
 
@@ -24,7 +24,7 @@ searchthe world from all
 
 ```
 
-It must be `search xx from yy` formation and the command above searches target files recursively to find the desired string, output the source file and the text which the string occurs in to stdout!
+It must be `search xx from yy` or `search xx in yy` formation and the command above searches target files recursively to find the desired string, output the source file and the text which the string occurs in to stdout!
 
 
 ## License

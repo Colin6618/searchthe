@@ -2,7 +2,7 @@
 var Task = require('./lib/task');
 
 var fromIndex = process.argv.findIndex((ele) => {
-    return ele == 'from';
+    return ele == 'from' || ele == 'in';
 })
 if(process.argv.length < 5) {
   console.log('Missing arguments');
